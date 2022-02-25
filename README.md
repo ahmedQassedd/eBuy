@@ -1,4 +1,4 @@
-# ebuy App
+# eBuy App
 
 
 
